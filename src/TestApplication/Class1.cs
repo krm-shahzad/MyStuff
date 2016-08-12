@@ -9,6 +9,7 @@ namespace TestApplication
     {
         public Class1()
         {
+            Console.WriteLine("First Commit");
         }
     }
 }
